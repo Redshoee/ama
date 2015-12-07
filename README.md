@@ -1,4 +1,10 @@
-# Ask me anything!
+# Ask me anything! (Vim Taiwan)
+
+Do you have any questions about Vim ? Ask it!
+
+* [AMA](https://github.com/vim-tw/ama) (Ask me anything)
+* [Official website](http://vim-tw.github.io)
+* [Telegram Chat](https://telegram.me/joinchat/CPYvygKUxvnd8xrGsW26MA )
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
